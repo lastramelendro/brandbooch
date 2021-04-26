@@ -47,7 +47,7 @@ h1 {
 
 #title {
   margin: 0em;
-  font-size: 5vw;
+  font-size: clamp (40px,1vw,70px);
 }
 
 h2 {
